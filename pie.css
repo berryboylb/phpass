@@ -1,0 +1,74 @@
+body {
+    background-color: #4CAF50;
+    color: white;
+}
+
+form {
+    width: 100%;
+    border-radius: 5px;
+    padding: 1%;
+}
+
+h2 {
+    text-align: center;
+    font-size: 40px;
+}
+
+td {
+    font-size: 20px;
+}
+
+input {
+    padding: 1%;
+    width: 90%;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+}
+
+textarea {
+    height: 100px;
+    width: 90%;
+    border-radius: 10px;
+    margin-bottom: 2%;
+    padding: 1%;
+}
+
+.btn {
+    width: 20%;
+    padding: 1%;
+    background-color: cadetblue;
+    border: none;
+    color: #fff;
+}
+.btnn {
+    width: 20%;
+    padding: 1%;
+    background-color: cadetblue;
+    border: none;
+    border-radius: 10px;
+}
+.btnn a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.tweak {
+    display: flex;
+    justify-content: space-evenly;
+}
+.message {
+    padding: 1%;
+    background-color: lightgreen !important;
+    border-radius: 5px;
+    width: 50%;
+}
+.message0 {
+    padding: 1%;
+    background-color: crimson;
+    border-radius: 5px;
+    width: 50%;
+}
+
+
+
